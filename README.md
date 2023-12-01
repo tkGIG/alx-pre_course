@@ -1,1 +1,1 @@
-My first readme, oh yh
+My first readme, yh
